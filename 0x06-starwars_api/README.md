@@ -12,7 +12,7 @@
     File: 0-starwars_characters.js
 
 ## Example
-    aysuarex@ubuntu:~/0x06$ ./0-starwars_characters.js 3
+    julian@ubuntu:~/0x06$ ./0-starwars_characters.js 3
     Luke Skywalker
     C-3PO
     R2-D2
